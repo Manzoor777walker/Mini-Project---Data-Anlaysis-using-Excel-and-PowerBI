@@ -2,9 +2,9 @@
 ## Data Anlaysis using Excel and Power BI
 *This dataset contains detailed information on employees across various departments and countries, capturing key aspects of their employment and performance metrics. It can be used for various HR analytics tasks, such as analyzing salary trends, studying the impact of leaves on productivity, or predicting employee turnover.
 *Goal:Creating a dashboard for Employee work Overview, Payroll analysis, Operational Efficiency and Leave Analytics*
-### Employees Management Analysis
+# Employees Management Analysis
 
-#### Data Cleaning and Data Preparation
+## Data Cleaning and Data Preparation
                    1.	No Duplicates are found.
                    2.	Missing values like Blankcells, Error, Nullvalue are not found.
                    3.	Correcting inconsistencies data like standardize text format, typos,capitalization,space etc…
@@ -38,7 +38,7 @@
                                    •	Average_Job_Rating = AVERAGE(Employees[Job Rate])
                                    •	Average_Monthly_Salary = AVERAGE(Employees[Monthly Salary])
                    5.	Ensuring and fix the data types to Dates.
-#### Creating Dashboard 
+## Creating Dashboard 
 
 ### Workforce Demographics and Employees overview
                    On this page include measures, Button, Insights, Slicer, Linechart, Piechart, Clustered Barchart, Matrix,100% stacked Bar chart.
@@ -66,5 +66,5 @@
                            	Line and stacked Column Chart: Total Sick Leave and Total Unpaid leave by Department.
                            	Table: Employee Detail Table
                            	Slicer : Based on department, Center and Start Date.
-                              Button for Page Navigation and Clear all slicer
+                             Button for Page Navigation and Clear all slicer
           
